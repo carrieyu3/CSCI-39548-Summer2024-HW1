@@ -1,4 +1,5 @@
 # CSCI-39548-Summer2024-HW1
+# Due: June 6, 2024
 Assignment Instructions:
 You are to create a website about yourself. It should have a minimum of 3 pages in total, each linked to the other using hyperlinks.
 Be sure to include images and appropriate css styles to make your website presentatable.
